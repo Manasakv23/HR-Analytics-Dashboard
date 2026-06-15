@@ -77,10 +77,6 @@ The dataset includes employee-related information such as:
 * Income and years of experience influence attrition patterns.
 
 
-## Dashboard Screenshots
-
-Add screenshots of your Power BI dashboard in the Screenshots folder and display them here for better visualization.
-
 ## Business Impact
 
 This dashboard enables HR managers to:
